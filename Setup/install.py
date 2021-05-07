@@ -62,3 +62,4 @@ deletes3lambdabucket = "aws s3 rb s3://lambdacodexcw --force"
 os.system(deletes3lambdabucket)
 
 print("Deleted temporary s3 bucket")
+print("-All set-")
